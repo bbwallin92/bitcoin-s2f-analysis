@@ -1,7 +1,8 @@
 # bitcoin-s2f-analysis
-Animation showcasing changes in the bitcoin stock to flow model when truncated datasets are selected
 
+<p>Animation showcasing changes in the bitcoin stock to flow model when truncated datasets are selected.<br> 
+  <br>
+  To find out more about the Stock to flow model visit https://100trillionusd.github.io/
+</p>
 
-
-
-![Animation](stock2flowmodel.gif)
+<img src="stock2flowmodel.gif" />
