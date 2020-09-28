@@ -4,7 +4,7 @@
 #Script to read bitcoin data from coinmetrics website
 
 Created on Mon Jun  8 07:19:57 2020
-@author: bbwallin92
+@author: 1B7F5D7410
 """
 
 
